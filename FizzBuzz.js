@@ -6,6 +6,6 @@ isDivisible = function(numerator, denominator) {
     return false;
   }
 };
-
 //Another Comment
+//Added Commentary
 module.exports.isDivisible = isDivisible;
