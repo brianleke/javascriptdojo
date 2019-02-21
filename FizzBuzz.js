@@ -7,4 +7,5 @@ isDivisible = function(numerator, denominator) {
   }
 };
 
+//Added Commentary
 module.exports.isDivisible = isDivisible;
